@@ -5,7 +5,7 @@ const yearNow = new Date().getFullYear();
 function Footer() {
   return (
     <footer>
-      <p>Copyright @ {yearNow}</p>
+      <p>Copyright ⓒ {yearNow}</p>
     </footer>
   );
 }
